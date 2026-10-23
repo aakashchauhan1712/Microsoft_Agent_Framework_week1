@@ -1,4 +1,6 @@
-agent-framework-foundry
-azure-identity
-python-dotenv
 streamlit
+python-dotenv
+azure-identity
+agent-framework
+agent-framework-foundry
+tavily-python
